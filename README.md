@@ -18,6 +18,6 @@ To use the app, simply open it up and select the location you want to view the w
 Once you have selected a location, the app will display the current weather conditions.
 
 Feedback:
-We appreciate your feedback on the app. If you have any suggestions or bug reports, please feel free to contact us at [skar54322@gmail.com]
+We appreciate your feedback on the app. If you have any suggestions or bug reports, please feel free to contact me at [skar54322@gmail.com]
 Thank you for using the Weather App!
 
