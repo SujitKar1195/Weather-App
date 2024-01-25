@@ -3,7 +3,7 @@
 <h2 id="features">Features</h2>
 <ul>
 <li>Search for weather by city name</li>
-<li>Display current temperature, humidity, and wind speed</li>
+<li>Display current temperature</li>
 <li>Dynamic weather icon based on the current weather conditions</li>
 <li>Clean and responsive user interface</li>
 </ul>
