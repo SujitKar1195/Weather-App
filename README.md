@@ -11,6 +11,6 @@
 <ol>
 <li><p>Clone the repository:</p>
 <p>```bash
-git clone <a href="https://github.com/SujitKar1195/WeatherApp.git">https://github.com/SujitKar1195/WeatherApp.git</a></p>
+git clone <a href="https://github.com/SujitKar1195/Weather-App.git">https://github.com/SujitKar1195/Weather-App.git</a></p>
 </li>
 </ol>
